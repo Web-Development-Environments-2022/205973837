@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     text-decoration: none;
-    list-style: none;
+    /*list-style: none;*/
     box-sizing: border-box;
 }
 body{
@@ -83,8 +83,9 @@ font-family: "Audiowide", sans-serif;
 
   a.mail{
     color: rgb(37, 41, 233);
-    font-size: 15px;
-    font-family:Arial, Helvetica, sans-serif
+    font-size: 30px;
+    font-family: 'Ms Madi', cursive;
+    font-weight: bold;
 
   }
 
@@ -93,5 +94,15 @@ font-family: "Audiowide", sans-serif;
     background: none;
 
   }
+  #spa.section{
+    font-family: 'Varela Round', sans-serif;
+    color: rgb(13, 13, 66);
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 2;
+
+}
+#spa ul.a {list-style-type: circle;}
 
 
