@@ -4,6 +4,6 @@ https://web-development-environments-2022.github.io/205973837/<br/>
 205973837<br/>
 בר גולדקרנץ<br/>
 <br/>
-ליצירת ה emoji selector השתמשתי ב:<br/>
+To create the emoji selector I used: <br/>
 https://github.com/mervick/emojionearea
 https://releases.jquery.com/
