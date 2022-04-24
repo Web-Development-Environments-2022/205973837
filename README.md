@@ -5,5 +5,5 @@ https://web-development-environments-2022.github.io/205973837/<br/>
 בר גולדקרנץ<br/>
 <br/>
 To create the emoji selector I used: <br/>
-https://github.com/mervick/emojionearea
+https://github.com/mervick/emojionearea<br/>
 https://releases.jquery.com/
